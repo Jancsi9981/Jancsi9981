@@ -11,12 +11,12 @@
 
 👋 Hi, I’m Jingyi. In spring 2023, I embarked on my master's degree at Keio University Graduate School of Science and Technology. Under the mentorship of Prof. Dengping Fan and Dr. Gepeng Ji, my research focuses on leveraging computer vision technology to address various challenges. My research interests include multimodal models, medical image analysis, and complex scene understanding, such as salient object segmentation and hidden visual perception.
 
-<h2><img src="./figures/writing_hand.gif"width ="30"> News</h1>
+<h2><img src="./figures/rocket.gif"width ="30"> News</h2>
 
 - [October 2024] We released the **IntelliScope** project, focusing on the frontiers of intelligent colonoscopy technology and exploring the application and impact of multimodal models in the medical field. For more details, please refer to the [paper](https://arxiv.org/abs/2410.17241) and [project](https://github.com/ai4colonoscopy/IntelliScope).
 
 
-<h2 align="left">Languages and Tools</h2>
+<h2><img src="./figures/writing_hand.gif"width ="25"> Languages and Tools</h2>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
